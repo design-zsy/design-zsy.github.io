@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App产品思维 on Design-Zsy</title>
+    <link>http://design-zsy.github.io/tags/app%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4/</link>
+    <description>Recent content in App产品思维 on Design-Zsy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://design-zsy.github.io/tags/app%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WBF 交易所</title>
+      <link>http://design-zsy.github.io/p/wbf-%E4%BA%A4%E6%98%93%E6%89%80/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://design-zsy.github.io/p/wbf-%E4%BA%A4%E6%98%93%E6%89%80/</guid>
+      <description>完整 PDF 下载</description>
+    </item>
+    
+    <item>
+      <title>简单周转设计思路</title>
+      <link>http://design-zsy.github.io/p/sm/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://design-zsy.github.io/p/sm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>黄浦财政移动办公交互设计</title>
+      <link>http://design-zsy.github.io/p/hp/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://design-zsy.github.io/p/hp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
